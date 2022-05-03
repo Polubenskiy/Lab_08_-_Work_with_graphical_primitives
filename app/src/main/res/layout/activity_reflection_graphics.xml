@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ReflectionGraphics">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:foregroundGravity="center">
+
+        <com.example.lab09___polubenskiy.MySurface
+            android:id="@+id/mySurface"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center|right"
+            android:orientation="vertical">
+
+            <Button
+                android:id="@+id/button3"
+                android:layout_width="55dp"
+                android:layout_height="wrap_content"
+                android:onClick="OnIncreasingTheGraph"
+                android:text="+" />
+
+            <Button
+                android:id="@+id/button4"
+                android:layout_width="55dp"
+                android:layout_height="wrap_content"
+                android:onClick="OnGraphCompression"
+                android:text="-" />
+        </LinearLayout>
+
+    </FrameLayout>
+
+</LinearLayout>

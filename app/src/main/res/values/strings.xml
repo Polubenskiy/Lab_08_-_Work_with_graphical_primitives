@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="app_name">Lab_08_-_Work_with_graphical_primitives</string>
+
+    <string name="label_countPoint">Number of point:</string>
+    <string name="label_xmin">Xmin:</string>
+    <string name="label_xmax">Xmax:</string>
+    <string name="label_function">Function:</string>
+
+    <string name="button_Calculate">Build a graph</string>
+    <string name="button_SelectAFunction">Select a function</string>
+
+    <string-array name="Functions">
+        <item>y = cos(x)</item>
+        <item>y = tan(x)</item>
+        <item>y = asin(x)</item>
+        <item>y = acos(x)</item>
+        <item>y = Math.Pow(x,2)</item>
+        <item>y = Math.Sqrt(x)</item>
+    </string-array>
+
+</resources>

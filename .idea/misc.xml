@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.3287037037037037" />
+        <entry key="..\:/Users/ILuvatar/Documents/Programming/Android Studio 2020/Java/Project/Lab_08_-_Work_with_graphical_primitives/Lab09/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3725" />
+        <entry key="..\:/Users/ILuvatar/Documents/Programming/Android Studio 2020/Java/Project/Lab_08_-_Work_with_graphical_primitives/Lab09/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3725" />
+        <entry key="..\:/Users/ILuvatar/Documents/Programming/Android Studio 2020/Java/Project/Lab_08_-_Work_with_graphical_primitives/Lab09/app/src/main/res/layout/activity_main.xml" value="0.67" />
+        <entry key="..\:/Users/ILuvatar/Documents/Programming/Android Studio 2020/Java/Project/Lab_08_-_Work_with_graphical_primitives/Lab09/app/src/main/res/layout/activity_reflection_graphics.xml" value="0.3233695652173913" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/activity_reflection_graphics.xml" value="0.18072916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
